@@ -1,0 +1,6 @@
+{
+  "name": "Courtyard of Shadows",
+  "description": "An isometric 2.5D Action RPG set within a reactive courtyard arena with kinetic props and deterministic 4-element environmental simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
